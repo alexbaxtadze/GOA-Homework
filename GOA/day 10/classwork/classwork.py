@@ -1,0 +1,6 @@
+integer = int(input("Please enter your number: "))
+print(integer)
+floatt = float(input("Please enter your float number: "))
+print(floatt)
+integer1 = int(input("Please enter your number: "))
+print(integer1)
