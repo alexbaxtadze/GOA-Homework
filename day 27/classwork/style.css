@@ -1,0 +1,16 @@
+.page{
+    display: none;
+}
+   
+.page.active{
+    display: block;
+}
+
+button{color: yellowgreen;
+    background-color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    border-color: brown ;
+    border-width: 10px;
+}  
